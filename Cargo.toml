@@ -1,10 +1,10 @@
 [package]
 name = "thenewsapi"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Rishabh Bector"]
 edition = "2018"
 description = "A client library for interacting with The News API, a free service providing access to global news from thousands of sources."
-documentation = "https://docs.rs/news_api_client"
+documentation = "https://docs.rs/thenewsapi"
 repository = "https://github.com/rishabh-bector/thenewsapi"
 readme = "README.md"
 keywords = ["news", "api", "client", "thenewsapi", "newsapi"]
